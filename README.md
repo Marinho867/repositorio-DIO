@@ -1,2 +1,2 @@
-# repositorio-DIO
+# Repositório - DIO
 Repositório para atividades relacionadas ao butcamp DIO - TQI Fullstack Developer
